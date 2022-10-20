@@ -1,7 +1,7 @@
 We are the team Groundhog and our work has been documented in the Wiki.
 
 
-Our weekly work has been recorded in wiki pages which are named as that week(Week 6- Week 10).  
+Our weekly work has been recorded in wiki pages which are named as that week(Week 6- Week 12).  
 Week6:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/week6-wiki  
 Week7:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/week7-wiki  
 Week8:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/week8-wiki  
