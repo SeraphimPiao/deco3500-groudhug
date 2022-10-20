@@ -8,6 +8,7 @@ Week8:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/week8-wiki
 Week9:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/week9-wiki  
 Week10:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/week10-wiki
 Week11:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/Week-11-Wiki
+Week12:https://github.com/SeraphimPiao/deco3500-groudhug/wiki/Week-12-Wiki
 
 Here is the link to the google drive of the team and all of our work such as PPT, transcript of presentation and user evaluation data are all in it. https://drive.google.com/drive/folders/12Pa0iFmsXK7mTdJk5OArbMq6O-xKobLm?usp=sharing  
 Since our project is physical computing, so we have demonstrate video of our prototype for online present. Here is the link:https://drive.google.com/file/d/1kw834AwkFTi-ayBSi1547G0x3simyW5-/view?usp=sharing  
