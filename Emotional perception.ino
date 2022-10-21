@@ -63,7 +63,7 @@ void loop (){
     digitalWrite(ledPin4, LOW);
   }
 
-  //Green lgith 2
+  //Green light 2
   if (val >= 650) {
     digitalWrite(ledPin5, HIGH);
   }
