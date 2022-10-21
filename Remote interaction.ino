@@ -1,4 +1,4 @@
-// Reference: https://create.arduino.cc/projecthub/ibrahim-yassine/smart-healthy-chair-102765
+// Reference: Smart healthy chair. Arduino Project Hub. (n.d.). Retrieved October 21, 2022, from https://create.arduino.cc/projecthub/ibrahim-yassine/smart-healthy-chair-102765 
 const int trigPin = 9;
 const int echoPin = 10;
 const int buzzer = 11;
