@@ -1,4 +1,7 @@
-// Reference: 8x LED lighting by sound. Arduino Project Hub. (n.d.). Retrieved October 21, 2022, from https://create.arduino.cc/projecthub/mantastka/8x-led-lighting-by-sound-16b21c 
+/* 
+   Reference: 8x LED lighting by sound. Arduino Project Hub. (n.d.). 
+   Retrieved October 21, 2022, from https://create.arduino.cc/projecthub/mantastka/8x-led-lighting-by-sound-16b21c 
+*/
 int ledPin1= 13; //Adding the LED's and sensor.
 int ledPin2= 12;
 int ledPin3= 11;
