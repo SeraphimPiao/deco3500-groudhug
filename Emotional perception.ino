@@ -28,7 +28,7 @@ void loop (){
   Serial.println (val);
   // when the sensor detects a signal, LED flashes
   
-  //1
+  //Blue light 1
   if (val >= 600) {
     digitalWrite(ledPin1, HIGH); //selecting the values of LEDs to flash by detecting values of sound sensor.
   }
@@ -36,7 +36,7 @@ void loop (){
     digitalWrite(ledPin1, LOW);
   }
 
-  //2
+  //Blue light 2
    if (val >= 600) {
     digitalWrite(ledPin2, HIGH);
   }
@@ -44,7 +44,7 @@ void loop (){
     digitalWrite(ledPin2, LOW);
   }
 
-   //3
+   //Blue light 3
    if (val >= 650) {
     digitalWrite(ledPin3, HIGH);
   }
@@ -52,7 +52,7 @@ void loop (){
     digitalWrite(ledPin3, LOW);
   }
 
-  //4
+  //Green light 1
   if (val >= 650) {
     digitalWrite(ledPin4, HIGH);
   }
@@ -60,7 +60,7 @@ void loop (){
     digitalWrite(ledPin4, LOW);
   }
 
-  //5
+  //Green lgith 2
   if (val >= 650) {
     digitalWrite(ledPin5, HIGH);
   }
@@ -68,7 +68,7 @@ void loop (){
     digitalWrite(ledPin5, LOW);
   }
 
-  //6
+  //Red light 1
   if (val >= 750) {
     digitalWrite(ledPin6, HIGH);
   }
@@ -76,7 +76,7 @@ void loop (){
     digitalWrite(ledPin6, LOW);
   }
 
-  //7
+  //Red light 2
   if (val >= 750) {
     digitalWrite(ledPin7, HIGH);
   }
@@ -84,7 +84,7 @@ void loop (){
     digitalWrite(ledPin7, LOW);
   }
 
-  //8
+  //Red light 3
   if (val >= 750) {
     digitalWrite(ledPin8, HIGH);
   }
